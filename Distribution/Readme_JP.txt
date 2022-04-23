@@ -4,7 +4,7 @@
 
 
 [内容一覧]
-・UNITYPACKAGEファイル(InvisibleShader_ver1.00.unitypackage)
+・UNITYPACKAGEファイル(InvisibleShader_ver1.01.unitypackage)
 ・PNGファイル(Thumbnail.png)
 ・TXTファイル(Readme_JP.txt, Readme_EN.txt, LICENSE.txt)
 
@@ -30,6 +30,7 @@ Unity 2019.4.31f1 (64-bit)
 
 
 [更新履歴]
+2022/03/28 ver1.01 シングルパスインスタンシングレンダリングに対応、色の変更
 2022/02/11 ver1.00
 
 

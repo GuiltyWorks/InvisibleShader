@@ -1,4 +1,4 @@
-﻿// Copyright (c) 2021 Guilty
+﻿// Copyright (c) 2022 Guilty
 // MIT License
 // GitHub : https://github.com/GuiltyWorks
 // Twitter : @GuiltyWorks_VRC
@@ -6,7 +6,7 @@
 
 Shader "Guilty/StandardInvisible" {
     Properties {
-        _PixelColor ("Pixel Color", Color) = (0.5, 0.5, 0.5, 1.0)
+        _PixelColor ("Pixel Color", Color) = (0.8, 0.8, 0.8, 1.0)
         _BackgroundColor ("Background Color", Color) = (1.0, 1.0, 1.0, 1.0)
         _Glossiness ("Smoothness", Range(0.0, 1.0)) = 0.5
         _Metallic ("Metallic", Range(0.0, 1.0)) = 0.0

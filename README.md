@@ -12,6 +12,8 @@ Unity 2019.4.31f1 (64-bit)
 
 ## Change Logs
 
+2022/03/28 ver1.01 Single Pass Instanced Rendering Support, Change Color
+
 2022/02/11 ver1.00
 
 ## License
